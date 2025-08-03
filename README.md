@@ -19,7 +19,7 @@ Welcome to my curated collection of Python-based solutions for LeetCode problems
 
 | Problem Name       | Difficulty | Link to Solution |
 |--------------------|------------|------------------|
-| Two Sum            | Easy       | [Two Sum.md](./Two%20Sum.md) |
+| Two Sum            | Easy       | Two Sum.md       |
 | ...                | ...        | ...              |
 
 > More problems will be added regularly as I continue solving and refining solutions.
