@@ -1,4 +1,3 @@
-Here’s a polished `README.md` you can use for your **LeetCode-Python** GitHub repo, designed to showcase your solutions professionally and clearly:
 
 ---
 
