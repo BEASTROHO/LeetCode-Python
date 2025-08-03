@@ -2,7 +2,6 @@ Here’s a clean, copy-paste-ready markdown block you can add directly to your G
 
 ---
 
-```markdown
 ## 🧮 Problem: Two Sum
 
 **Difficulty**: Easy  
@@ -22,7 +21,7 @@ You can return the answer in any order.
 
 ### 📘 Examples
 
-```text
+
 Input: nums = [2,7,11,15], target = 9  
 Output: [0,1]
 
@@ -31,7 +30,7 @@ Output: [1,2]
 
 Input: nums = [3,3], target = 6  
 Output: [0,1]
-```
+
 
 ---
 
@@ -44,12 +43,8 @@ Output: [0,1]
 
 ---
 
-### 💡 Follow-up
-
-Can you come up with an algorithm that is less than O(n²) time complexity?
-
 ```
 
----
+
 
 Let me know if you want to add your Python solution below this block or include a performance analysis.
