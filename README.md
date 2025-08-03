@@ -1,7 +1,3 @@
-
----
-
-
 # 🧠 LeetCode Python Solutions
 
 Welcome to my curated collection of Python-based solutions for LeetCode problems. Each solution includes clean code, explanations, and where applicable, optimized approaches for better performance.
